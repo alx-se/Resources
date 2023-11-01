@@ -1,0 +1,2 @@
+# Cohort1Blended Live Learning sessions
+- Static Libraries [slides](./PDF/Static%20Libraries.pdf) | [Recording](https://us06web.zoom.us/rec/share/huPRhhzl8g64YMy2iphc4FLbx6at--kKRIjD-tQiT8Z-K6LG92pf-Ld_iRjbX84_.YUJOw0V1yBCg072w)
