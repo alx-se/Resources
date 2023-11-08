@@ -1,0 +1,16 @@
+// 1. Including Header Files: You can use the #include directive to include standard or user-defined header files in your program. For example:
+#include <stdio.h>
+
+
+// 2. Defining Macros: You can use the #define directive to define a macro, which can be a constant or a macro function. For example:
+#define PI 3.14
+
+
+// 3. Conditional Compilation: You can use directives like #ifdef, #ifndef, #if, #else, #elif, and #endif for conditional compilation. For example, you might have code that should only be compiled for a debug build:
+#ifdef DEBUG
+    printf("Debugging information...\n");
+#endif
+
+// 4. Undefining Macros: If you need to undefine a macro, you can use the #undef directive. For example:
+#define PI 3.14
+#undef PI
