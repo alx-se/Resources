@@ -4,4 +4,4 @@
 - Preprocessor [slides](./Code/Preprocessor/)|[Recording](https://us06web.zoom.us/rec/share/E94QPme297I5Wfa2QQJECPk08ZdTL0gEbCBI9PdzcO58yFU9PdLFplUg6xKdqQx9.fXaneSCjEZH3Gkd7) | [Code](./Code/Preprocessor/)
 - Function Pointers & Variadic Functions [slides](./PDF/Function%20Pointers%20+%20Variadic%20Functions.pdf)|[Recording](https://us06web.zoom.us/rec/share/Jnx7BKrSq0du-dcrnCzNr_OXnbrxoBFL716hRda38HeA5oTFSbxJs8hdUwO2My2S.fGOCzHokiijmIj37) | [Code](./Code/Function_pointer_and_Vardiac_Functions/)
 <!-- Topic [slides]()|[Recording]() -->
-
+- Printf [slides](./PDF/printf.pdf) | [Recording](https://us06web.zoom.us/rec/play/LpgLvZqQF5iTi6r2ZnmDEmjrRiIUOprcAZ0qpN_8yy5V4krdmxJrFXydZy2XV_5t17LQ7SFleLUVdCOi.I3T9ARuL-SPr1YMN?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FwTH25DDPGUzNYgvtLm0d6Wi4m-mecZdj5diXaTARdSrI_A_353o_yZzh1EMVQaEj.5lBu3qD4XsOXK_7t) | [No Code]()
