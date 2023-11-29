@@ -37,7 +37,8 @@ int main() {
   insert(10);
   insert(20);
   insert(30);
-  // insert(400);
+  insert(400);
+  insert(500);
 
   print();
 
