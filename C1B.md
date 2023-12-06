@@ -9,3 +9,4 @@
 - C Bit Manipulation  [Slide](./PDF/Bit%20Manipulation.pdf) | [Recording](https://sandtech.zoom.us/rec/share/DKxaMkVHhhu9NVYavK5fuEuO923UeaHTO8qjX2iMEB4oaZ6N65Q10DGEnEVR1I4U.kDuT4Eue028Pq4YA) | [Code Watch the LCS](./Code/BitMan/C-20/)
 - C File I/O [Slide1](./PDF/C-File_I-O.pdf), [Slide2](./PDF/File%20I_O.pdf) | [Recording](https://sandtech.zoom.us/rec/share/AiKbOuGYm89lZg_hq3j8oWS3etJFFxRoLVAsVxQd61-E-H4_AiQMTFIedRzAAe-K.WUEgKE86FYk8h2mf) | [Code](./Code/File%20IO/C-20/)
 - Simple Shell Part 1 [Recording](https://sandtech.zoom.us/rec/share/dlgxErIYw2jbt8ia_xnamnOsxcbwwPfgjoowbWh6BUC7KO0gOr_sBenEeSyLWM7g.pLZFJb8sz6zxaqwD) | [Code](./Code/Simple_shell/)
+- Simple Shell Part 2 [Recording](https://sandtech.zoom.us/rec/share/gdY5vCP4SWHaX__5GVGjLkJJzfWLodHKKISwrOecYHgEoU5H9M6TKe1WS3zxTLNc.0jrBkeTEWv10eMsp) | [No Code Learn by Implementing and Experementing]()
