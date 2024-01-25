@@ -6,14 +6,14 @@ typedef struct learner
   char *name;
   char *userName;
   float averageScore;
-} leanrerSt;
+} learnerSt;
 
 /* create a function that takes name userName averageScore and creates
    a learner structure and returns it*/
 
 struct learner *createLearner(char *name, char *userName, float avg)
 {
-  leanerSt *learner1;
+  learnerSt *learner1;
 
   learner1 = malloc(sizeof(struct learner) * 1); 
   
