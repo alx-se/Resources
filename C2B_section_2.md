@@ -6,3 +6,4 @@ Here you can find the recorded sessions, codes writtend during the session, and 
 
 ## Resources
 
+- Python Hello world, Conditional, loops, Conditional, and Command Line Argument  [Recording](https://sandtech.zoom.us/rec/share/rz_ljuqBHC1l3O-iW6SxN6SnBXmdS1wC-bx1coiTq7Ujpd6XDB93bYbwgrjD_gBS.az_kdcqiNDLkIFSS) | [Tasks](https://github.com/alx-se/Resources/blob/master/Code/python_hello_world/C2B/README.md) | [Code](https://github.com/alx-se/Resources/tree/master/Code/python_hello_world/C2B)
